@@ -1,0 +1,11 @@
+{
+  "name": "uniSwapClone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LFRezende/UniSwap-Clone.git",
+  "author": "LFRezende <lfsrsprofessional@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.19.5"
+  }
+}
